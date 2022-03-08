@@ -4,6 +4,8 @@
 
 Basic React app that lists the FAQs about user log in.
 
+![FAQs Sample App](https://github.com/sudarshan-sh/FAQsSampleApp/blob/main/images/accordion-app.png)
+
 ## Functionality
 
 It lists the questions, and answers would be visible when a user toggles.
