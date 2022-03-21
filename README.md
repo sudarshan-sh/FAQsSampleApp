@@ -4,6 +4,8 @@
 
 Basic React app that lists the FAQs about user log in.
 
+App link - https://faq-sample.netlify.app/
+
 ![FAQs Sample App](https://github.com/sudarshan-sh/FAQsSampleApp/blob/main/images/accordion-app.png)
 
 ## Functionality
